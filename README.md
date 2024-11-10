@@ -1,7 +1,11 @@
 # Sarvam AI Agent Assignment
 
 ## Overview
-The Sarvam AI Agent is designed to fetch real-time Bitcoin prices and handle language translation requests, while maintaining English as the primary output language. It leverages the Together AI API for natural language processing capabilities and a cryptocurrency API for live price data.
+The Sarvam AI Agent is designed to fetch real-time Bitcoin prices and handle language translation requests, with English as the primary output language. It leverages the Together AI API for natural language processing and a cryptocurrency API for live Bitcoin data.
+
+Please note that due to fluctuations or temporary unavailability of the cryptocurrency API, responses may occasionally vary slightly. In such cases, the AI Agent will provide a fallback message to indicate any discrepancies in data or to guide you toward supported queries.
+
+
 
 ## Setup Instructions
 
